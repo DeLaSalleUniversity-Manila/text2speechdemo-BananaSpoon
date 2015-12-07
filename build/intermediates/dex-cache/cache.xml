@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-089506fff56df6ab70ac68038ee808e908f86e35.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-0632da76d85a96111b8bc30f6ee6b83432dc153c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\pre-dexed\debug\classes-fed0fb9c46fc83d273c6256216959a7cbbaf42be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\pre-dexed\debug\classes-0fe58ceb45c16533bf3806300149657286be3f0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Christian\Documents\GitHub\texttospeech\app\build\intermediates\pre-dexed\debug\classes-f257fae5872d5b6d2db996ebece7098c22dfd49e.jar" />
+    </item>
+
+</items>
